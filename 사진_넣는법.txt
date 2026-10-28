@@ -1,0 +1,10 @@
+사진 적용 방법
+1. images/stay 폴더에 숙소 사진을 아래 이름으로 넣으세요.
+ stay-exterior-01.jpg, stay-room-01.jpg, stay-room-02.jpg, stay-pool-01.jpg, stay-sports-01.jpg, stay-restaurant-01.jpg, stay-food-01.jpg, stay-food-02.jpg
+2. images/santiburi 와 images/waterford 각각에 아래 이름으로 넣으세요.
+ hero.jpg (상단 배경), fairway-01.jpg, green-01.jpg, course-01.jpg, clubhouse-01.jpg, facility-01.jpg, restaurant-01.jpg
+3. 사진이 없는 칸은 '사진 준비 중'으로 보입니다.
+4. 실제 PNG/WEBP 파일은 이름만 JPG로 바꾸지 마세요. JPG로 변환하거나 HTML/CSS 경로 확장자를 변경하세요.
+5. 이미지 파일명은 대소문자까지 정확히 일치해야 합니다.
+6. 공개 시 사진 사용권, 촬영지, 시설 운영 여부를 확인하세요.
+7. index.html 메인 배경은 기존 참고 사진입니다. 메인 사진 교체 시 style.css의 .hero 배경 URL도 바꿔주세요.
